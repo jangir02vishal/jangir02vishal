@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Header image" src="https://github.com/jangir02vishal/jangir02vishal/blob/main/bcs.gif">
+  <img alt="Header image" width="300" height="300" src="https://github.com/jangir02vishal/jangir02vishal/blob/main/bcs.gif">
 </p>
 
 <h1 align="center">Hi 👋, I'm Vishal Jangir</h1>
