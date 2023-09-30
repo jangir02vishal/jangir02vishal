@@ -2,16 +2,16 @@
   <img alt="Header image" src="https://raw.githubusercontent.com/jangir02vishal/jangir02vishal/main/68747470733a2f2f632e74656e6f722e636f6d2f703749677753313756307341414141432f72746a2d7269636b2d616e642d6d6f7274792e676966.gif">
 </p>
 
-<h1 align="center">Hi 👋, I'm Ritik Jangid</h1>
+<h1 align="center">Hi 👋, I'm Vishal Jangir</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 💬 Ask me about **React, JavaScript, Python**
+- 💬 Ask me about **React, Spring, Java**
 
-- 📫 How to reach me **ritikjj02@gmail.com**
+- 📫 How to reach me **jangir02vishal@gmail.com**
 
-- 📄 Know about my experiences [https://cuvette.tech/app/public/profile/63af01c1585c51fcd5de8ec5](https://cuvette.tech/app/public/profile/63af01c1585c51fcd5de8ec5)
+- 📄 Know about my experiences [https://www.linkedin.com/in/jangir02vishal/]
 
 - ⚡ Fun fact **The average person spends around 6 months of their life waiting for their computer to boot up so I never shut it down.**
 
