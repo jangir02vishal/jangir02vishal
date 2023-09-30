@@ -18,7 +18,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jangir02vishal&label=Profile%20views&color=0e75b6&style=flat" alt="jangir02vishal" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ritik-jangid-05040a209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ritik-jangid-05040a209/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jangir02vishal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jangir02vishal/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jangir02vishal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jangir02vishal" height="30" width="40" /></a>
 </p>
 
