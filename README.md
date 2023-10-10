@@ -5,15 +5,15 @@
 <h1 align="center">Hi 👋, I'm Vishal Jangir</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🌱 I’m currently learning **SpringBoot and React**
+- 🌱 I’m currently learning **MERN stack**
 
-- 💬 Ask me about **Javascript, React, Java, Spring**
+- 💬 Ask me about **Javascript, React, Java, Node.js**
 
 - 📫 How to reach me **jangir02vishal@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/jangir02vishal/]
 
-- ⚡ Fun fact **My error messages are so friendly that they could convince a developer to become a poet. 📜**
+- ⚡ Fun fact **My error messages are so friendly that they could convince the fellow developers to become a poet. 📜**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jangir02vishal&label=Profile%20views&color=0e75b6&style=flat" alt="jangir02vishal" /> </p>
 <h3 align="left">Connect with me:</h3>
@@ -31,7 +31,7 @@
     </a>
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a>
-    <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" /> </a>
+<!--     <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" /> </a> -->
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /> </a>
     <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" /> </a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /> </a>
