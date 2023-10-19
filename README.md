@@ -5,9 +5,9 @@
 <h1 align="center">Hi 👋, I'm Vishal Jangir</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **Full stack development**
 
-- 💬 Ask me about **Javascript, React, Java, Node.js**
+- 💬 Ask me about **Java, Javascript, React, Spring Boot, Node.js**
 
 - 📫 How to reach me **jangir02vishal@gmail.com**
 
